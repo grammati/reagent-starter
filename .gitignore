@@ -1,0 +1,8 @@
+/checkouts
+*.jar
+*.class
+*.log
+/.lein-*
+/.nrepl-port
+/resources/public/js
+/.repl
